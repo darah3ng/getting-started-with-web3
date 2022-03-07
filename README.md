@@ -9,6 +9,8 @@ Keep in mind that this docs is very opiniated, so I encourage you to explore to 
 Since I like learning backwards, this is the order on how I would start:
 
 ## Solidity courses
+- [Best tutorial ever](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+  - Trust me, this is good.
 - [Cryptozombies](https://cryptozombies.io/en/course)
   - The first 3 courses should help you understand the Solidity concepts and syntax
 - [Fullstack video guide](https://www.youtube.com/watch?v=a0osIaAOFSE)
@@ -49,6 +51,10 @@ A web3 developemt suite where people mainly use it to deploy their contracts int
 - https://docs.alchemy.com/alchemy/
 
 An alternative platform is [Infura](https://infura.io/).
+
+## Other useful resources
+- https://web3.career/learn-web3
+- https://www.useweb3.xyz/tutorials
 
 `Cheers,`
 

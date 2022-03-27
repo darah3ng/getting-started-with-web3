@@ -2,7 +2,7 @@
 
 `To Lethal 👋,`
 
-I hope this md finds you well. I'm gonna try my best to simplify the guide so you get too overwhelmed by the resources.
+I hope this md finds you well. I'm gonna try my best to simplify the guide so you won't get too overwhelmed when you're looking at this for the first time.
 
 Keep in mind that this docs is very opiniated, so I encourage you to explore to find the ones that suit you.
 
